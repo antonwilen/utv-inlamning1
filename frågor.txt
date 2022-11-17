@@ -1,0 +1,18 @@
+När använder man add respektive commit?
+Add använder man för att lägga till en fil till staging area
+Commit används för att "committa" en fil från staging area till "commits",
+man gör det "slutgiltigt"
+
+Vad är pull respektive push?
+Pull är när man laddar ner ("drar") från t.ex. ett repository på GitHub.
+Push är när man laddar upp ("trycker") TILL t.ex. ett repository på GitHub.
+
+När använder man log respektive status?
+Log används för att se historiken av commits, vad man har gjort och när.
+Status används under tiden man arbetar för att ta reda på vad som behövs göra.
+
+Hur kan man formulera sig i sina commit-meddelanden?
+Man ska formulera sig tydligt och konsekvent, man bör inte ändra sättet man skriver sina commit-meddelanden på mitt i utvecklingsfasen. Man ska förklara vad som GÖRS i commiten.
+T.ex. om man lägger till en feature kan man skriva
+Lägger till feature
+Dock förmodligen lämpligtvis på engelska och något mer detaljerat
