@@ -9,7 +9,7 @@ echo "compiling..."
 javac Guesser.java
 javac GuessingGame.java
 echo "starting..."
-java GuessingGame.java
+java GuessingGame
 echo "Done!"
 echo "Removing class files"
 rm Guesser.class
